@@ -1,0 +1,8 @@
+This is file number two.
+
+
+class two{
+	int a = 10;
+	int b = 20;
+	System.out.println(a+b);
+}
