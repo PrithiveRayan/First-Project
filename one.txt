@@ -1,9 +1,7 @@
 
 Feature one{}
 
-Feature two{
-	upload functionality
-	}
+Feature two{}
 
 Feature three{
 	Download functionality
