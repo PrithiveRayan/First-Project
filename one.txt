@@ -1,9 +1,9 @@
 
-Feature one{
-	login functionality
-	}
+Feature one{}
 
-Feature two{}
+Feature two{
+	upload functionality
+	}
 
 Feature three{
 	Download functionality
