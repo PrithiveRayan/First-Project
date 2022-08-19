@@ -3,7 +3,7 @@ This is file number one.
 
 class one{
 	int a = 10;
-	int b = 20;
+	int b = 30;
 	int c = a+B;
 	System.out.println(c);
 }
